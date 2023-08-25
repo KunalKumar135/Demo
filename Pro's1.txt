@@ -1,0 +1,3 @@
+By using python,
+1) Automatic login bot
+2)Web Scrapping
